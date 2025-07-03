@@ -30,7 +30,7 @@ sᴛɪᴄᴋᴇʀs ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 /kang ➠ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀɴʏ sᴛɪᴄᴋᴇʀ ʀᴇᴘʟʏ ᴀɴᴅ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴘᴀᴄᴋ.
 
-/mmf ➠ ʀᴇʟᴘʏ ᴀɴʏ sᴛɪᴄᴋᴇʀ ɢᴇᴛ ᴀ ɴᴇᴡ ɴᴀᴍᴇ ʟɪᴋᴇ /mmf RAJABABU 
+/mmf ➠ ʀᴇʟᴘʏ ᴀɴʏ sᴛɪᴄᴋᴇʀ ɢᴇᴛ ᴀ ɴᴇᴡ ɴᴀᴍᴇ ʟɪᴋᴇ /mmf YUNO 
 '''
 
     HELP_TagAll = '''Tᴀɢ
@@ -59,7 +59,7 @@ sᴛɪᴄᴋᴇʀs ᴄᴏᴍᴍᴀɴᴅꜱ:
 
 𝖦ɪᴛʜᴜʙ ᴄᴏᴍᴍᴀɴᴅꜱ:
 
-/allrepo : sᴇᴇ ᴀʟʟ ʀᴇᴘᴏ ᴀɴʏ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛ ᴇx - /allrepo TEAMPURVI.
+/allrepo : sᴇᴇ ᴀʟʟ ʀᴇᴘᴏ ᴀɴʏ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛ ᴇx - /allrepo WRITE NAME.
 
 /github <ᴜsᴇʀɴᴀᴍᴇ> : ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ɢɪᴛʜᴜʙ ᴜsᴇʀ.
 '''
@@ -111,7 +111,7 @@ Admins only:
  ❍ /tmute <userhandle> x(m/h/d): mutes a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
  ❍ /unmute <userhandle>: unmutes a user. Can also be used as a reply, muting the replied to user.
 __
-𝐒ᴘᴇᴄɪᴀʟ 𝐂ᴏᴍᴍᴀɴᴅs 𝐒ᴜᴘᴘᴏʀᴛ 𝐀ʟʟ 𝐄xᴀᴍᴘʟᴇ  -  Sonali 𝚋𝚊𝚗 Sonali 𝚖𝚞𝚝𝚎 Sonali 𝚙𝚛𝚘𝚖𝚘𝚝𝚎 ..... 𝚎𝚝𝚌
+𝐒ᴘᴇᴄɪᴀʟ 𝐂ᴏᴍᴍᴀɴᴅs 𝐒ᴜᴘᴘᴏʀᴛ 𝐀ʟʟ 𝐄xᴀᴍᴘʟᴇ  -  BOT 𝚋𝚊𝚗 Sonali BOT 𝚙𝚛𝚘𝚖𝚘𝚝𝚎 ..... 𝚎𝚝𝚌
 '''
     HELP_Search = '''Sᴇᴀʀᴄʜ
 
